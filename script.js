@@ -98,7 +98,7 @@ const questions = [
   {
     question: 'How was the Budget of financial year 2024-25?',
     answers: [
-      { text: 'I was good', correct: false },
+      { text: 'It was good', correct: false },
       { text: 'Not Satisfied', correct: true },
       { text: 'Just OKK', correct: false },
       { text: 'who cares', correct: false }
@@ -107,8 +107,8 @@ const questions = [
   {
     question: 'Are you enjoying quiz?',
     answers: [
-      { text: 'YES', correct: false },
-      { text: 'NO', correct: true }
+      { text: 'YES', correct: true },
+      { text: 'NO', correct: false }
     ]
   }
 ]
